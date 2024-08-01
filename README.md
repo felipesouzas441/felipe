@@ -6,4 +6,4 @@ Meu nome é Felipe
   ## Entre em contato comigo ⏬
   -felipe.souza.silva29@escola.pr.gov.br
 
-  ![https://media1.tenor.com/m/QUOctMuzJTAAAAAC/clash-royale-super-cell.gif]
+  ![](https://media1.tenor.com/m/QUOctMuzJTAAAAAC/clash-royale-super-cell.gif)
